@@ -1,0 +1,149 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 25px;
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-left{
+  margin: 0 20px 0 0; 
+  float: left;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.header{
+  background-image: url(images/city-scape.svg);
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+  padding-top: 10px;
+  position: relative;
+  color: white;
+  background-color: rgb(32, 101, 136);
+}
+.header-text{
+  width: 40%;
+  margin: 100px 180px;
+}
+.header-search a{
+  color: white;
+  text-decoration: none;
+}
+#InputSearch{
+  background-color: rgb(31, 82, 111);
+  height:15px;
+  width: 80%;
+  border: none;
+  padding: 15px;
+  color: white;
+}
+#btnSingUp{
+  background-color: rgb(240, 146, 51);
+  text-decoration: none;
+  border-radius: 40px;
+  padding: 7px 18px 8px 18px;
+  font-size: 18px;
+}
+.clearfix { 
+    clear: both;     
+}
+.sec-one{
+  height: 450px;
+  color: white;
+  background-color: rgb(39, 53, 71);
+}
+.sec-one img{
+  padding-left: 50px;
+  padding-top: 50px;
+}
+#btnSingUpOrg{
+  background-color: rgb(203, 56, 55);
+  text-decoration: none;
+  border-radius: 40px;
+  padding: 7px 18px 8px 18px;
+  font-size: 18px;
+}
+.content-sec1{
+  width: 450px;
+  margin: 0 auto;
+  float: right;
+  padding-top: 50px;
+  padding-right: 150px;
+}
+.content-sec1 h2{
+  width: 350px;
+}
+.content-sec1 li{
+  line-height: 1.5em;
+}
+.content-sec1 a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+.sec-two{
+  background-image: url(images/forklift.svg);
+  background-position: 0 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+  padding-top: 10px;
+  position: relative;
+  color: white;
+  background-color: rgb(32, 101, 136);
+}
+.sec-two p{
+  width: 400px;
+}
+.sec-two a{
+  text-decoration: none;
+  color: white;
+}
+.content-sec2{
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+#bntInstall{
+  background-color: rgb(49, 68, 88);
+  text-decoration: none;
+  border-radius: 40px;
+  padding: 7px 18px 8px 18px;
+  font-size: 18px;
+}
+.content-sec3{
+  background-color: white;
+}
+.content-sec3-head{
+  width: 550px;
+  margin: 0 auto;
+  color: rgb(83, 88, 98);
+}
+.content-sec3-body{
+  color: rgb(135, 145, 156);
+}
+.content-sec3-body a{
+  color: rgb(208, 74, 73);
+}
+.col { 
+  float: left; 
+  text-align: center;
+}
+.col-3{
+  width: 30%;
+}
+.col-middle{
+  margin: 0% 5%;
+}
